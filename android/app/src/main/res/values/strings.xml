@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">virtoustack_test</string>
+    <string name="facebook_app_id">904365580236839</string>
+    <string name="fb_login_protocol_scheme">fb904365580236839</string>
+</resources>
